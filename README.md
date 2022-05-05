@@ -1,2 +1,2 @@
-# BootCamp-Dio--primeiro-reposit-rio
+# BootCamp-Dio-primeiro-repositorio
 Desafio - projeto Git/GitHub
