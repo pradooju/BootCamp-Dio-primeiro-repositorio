@@ -1,0 +1,19 @@
+Link para download do Git: https://git-scm.com/download/win
+
+Git - é um sistema de controle de versão distribuido, que evita que alterações sejam realizadas em um projeto e modifiquem o código-fonte.
+
+Comandos Git básicos
+
+1. git config: para configurar sua identidade de usuario, inserindo informações como nome e email.
+
+2. git init: para criar um novo projeto git, um novo repositório em branco.
+
+3. git clone: cria uma cópia exata de um repositório já existente.
+
+4. git add: adiciona os arquivos especificados de codigo ao seu repositório.
+
+5. git commit: guardar o estado do seu repositório naquele momento.
+
+6. git push: serve para subir as modificações para um repositório remoto.
+
+7. git pull: baixar o conteúdo do que foi alterado no repositório remoto para o repositório local.
